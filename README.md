@@ -13,7 +13,7 @@
 
 ## ✨ About me
 
-I'm a 5th semester B.Tech CSE (AI) student at **TKM College of Engineering**. I like turning ML ideas into things that actually run: simulations, web apps and desktop tools. I've led the team on every college project.
+I'm a 5th semester B.Tech CSE (AI) student at **TKM College of Engineering**. I like turning ML ideas into things that actually run: simulations, web apps and desktop tools. I've led the team on most of my college projects.
 
 Right now I'm:
 
@@ -55,14 +55,14 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
       <h3>🔥 Wildfire Drone Swarm</h3>
       A multi-drone agent trained with PPO to suppress wildfires on its own. Covers drone navigation, resource limits, reward design and simulation-based training.<br/><br/>
       <code>Python</code> <code>PPO</code> <code>Gymnasium</code> <code>PyGame</code><br/><br/>
-      <a href="https://github.com/Mohd-Hanan/REPLACE_WITH_REPO_NAME">Code</a>
+      <a href="https://github.com/Mohd-Hanan/Wildfire-Suppressing-Multi-Drone-Agent">Code</a>
       <!-- <br/><img src="assets/wildfire.png" width="100%"/> -->
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Customer Segmentation</h3>
       Streamlit app that groups customers with K-Means (k = 2 to 6), draws PCA plots and predicts a new customer's segment in real time.<br/><br/>
       <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
-      <a href="https://github.com/Mohd-Hanan/IML-PROJECT">Code</a> · <a href="https://YOUR-APP.streamlit.app">Live demo</a>
+      <a href="https://github.com/Mohd-Hanan/IML-PROJECT">Code</a> · <a href="https://customer-segmentation-iml-project.streamlit.app/">Live demo</a>
       <!-- <br/><img src="assets/segmentation.png" width="100%"/> -->
     </td>
   </tr>
@@ -78,7 +78,7 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
       <h3>🗓️ FIH</h3>
       A personal planner with to-do lists and goals, built with a friend for our personal use.<br/><br/>
       <code>TypeScript</code><br/><br/>
-      <a href="https://github.com/Mohd-Hanan/MY-PLANNER">Code</a>
+      <a href="https://github.com/Mohd-Hanan/FIH">Code</a>
     </td>
   </tr>
   <tr>
