@@ -1,113 +1,120 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammed%20Hanan&fontSize=52&fontAlignY=36&animation=fadeIn&desc=CSE%20(AI)%20%7C%20ML%20%7C%20Reinforcement%20Learning&descAlignY=58&descSize=18" width="100%" alt="header"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami;muhammed_hanan_pp;%24+cat+interests.txt;machine+learning+%7C+reinforcement+learning;%24+status;open+to+internships" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Teaching+drones+to+fight+fires+%F0%9F%94%A5;Clustering+customers+with+K-Means+%F0%9F%9B%92;Learning+new+AI+tools+every+week+%F0%9F%A7%A0;Open+to+internships+%F0%9F%9A%80" alt="typing animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=for-the-badge" alt="Open to internships"/>
+<img src="https://img.shields.io/badge/CGPA-9.24-8b5cf6?style=for-the-badge" alt="CGPA 9.24"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-ec4899?style=for-the-badge" alt="B.Tech CSE AI"/>
 
 </div>
 
-```bash
-hanan@tkmce:~$ whoami
-Muhammed Hanan P P
+## ✨ About me
 
-hanan@tkmce:~$ cat about.txt
-B.Tech CSE (Artificial Intelligence) @ TKM College of Engineering
-5th semester | CGPA 9.24
-Builds ML models, RL agents and desktop apps.
-Team lead on every college project except the Arduino one.
+I'm a 5th semester B.Tech CSE (AI) student at **TKM College of Engineering**. I like turning ML ideas into things that actually run: simulations, web apps and desktop tools. I've led the team on every college project except the Arduino one.
 
-hanan@tkmce:~$ cat status.txt
-[x] open to internships
-[x] cleaning up old projects
-[x] learning new AI tools and wiring them into my work
-[ ] SRP (socially relevant project), starting next semester
-```
+Right now I'm:
 
----
+- 🧹 polishing my older projects
+- 🧠 learning new AI tools and wiring them into my work
+- 🌍 getting ready for my SRP (socially relevant project) next semester
 
-### `$ ls ~/projects`
-
-<details open>
-<summary><b>🔥 wildfire-drone-swarm</b>  <code>Python · PPO · Gymnasium · PyGame</code></summary>
-<br/>
-
-A multi-drone reinforcement learning system for autonomous wildfire suppression. It covers drone navigation, resource constraints, reward design and simulation-based training.
-
-[`view source`](https://github.com/Mohd-Hanan/REPLACE_WITH_REPO_NAME)
-
-<!-- add screenshot: <img src="assets/wildfire.png" width="600"/> -->
-</details>
-
-<details>
-<summary><b>🛒 customer-segmentation</b>  <code>Python · Scikit-learn · Streamlit</code></summary>
-<br/>
-
-Streamlit app that segments customers by gender, age, income and spending using K-Means. Includes dynamic clustering (k = 2 to 6), PCA visualization and real-time prediction for a new customer.
-
-[`view source`](https://github.com/Mohd-Hanan/IML-PROJECT) · [`live demo`](https://YOUR-APP.streamlit.app)
-
-<!-- add screenshot: <img src="assets/segmentation.png" width="600"/> -->
-</details>
-
-<details>
-<summary><b>⚡ powerguard</b>  <code>Java · JavaFX · ML</code></summary>
-<br/>
-
-JavaFX desktop app with 5 screens and login. Predicts electricity bills from unit input or from appliance, quantity and usage hours, with budget tracking. Benchmarks 5 ML models on 10,000 records, auto-selects the best one and exports PDFs.
-
-[`view source`](https://github.com/Mohd-Hanan/AP-PROJECT)
-
-<!-- add screenshot: <img src="assets/powerguard.png" width="600"/> -->
-</details>
-
-<details>
-<summary><b>🗓️ fih</b>  <code>TypeScript</code></summary>
-<br/>
-
-A personal planner with to-do lists and goals, built with a friend for our own use.
-
-[`view source`](https://github.com/Mohd-Hanan/MY-PLANNER)
-</details>
-
-<details>
-<summary><b>🌐 portfolio</b>  <code>TypeScript · Vercel</code></summary>
-<br/>
-
-My personal site. It keeps growing as I do.
-
-[`view source`](https://github.com/Mohd-Hanan/PORTFOLIO) · [`live`](https://hanan-portfolio-ten.vercel.app)
-</details>
-
----
-
-### `$ cat skills.json`
-
-```json
-{
-  "languages": ["Python", "Java", "C", "TypeScript"],
-  "ml": ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "K-Means", "PCA", "PPO"],
-  "frameworks": ["Streamlit", "Gymnasium", "PyGame", "JavaFX"],
-  "database": ["MySQL"],
-  "tools": ["Git", "GitHub", "VS Code", "Jupyter", "IntelliJ IDEA", "PyCharm", "Arduino"]
-}
-```
-
-### `$ ls ~/certificates`
-
-```
-nptel_course_1.cert
-nptel_course_2.cert
-nptel_course_3.cert
-workshops/
-hackathon_participation.cert
-```
-
-### `$ ./contact.sh`
+## 🛠️ Tech I use
 
 <p>
-  <a href="mailto:mohdhanan195@gmail.com"><img src="https://img.shields.io/badge/email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-  <a href="tel:+919778559152"><img src="https://img.shields.io/badge/call-0D1117?style=for-the-badge&logo=googlephone&logoColor=00FF9C" alt="Phone"/></a>
-  <a href="https://hanan-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
 
-```bash
-hanan@tkmce:~$ exit
+Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame, JavaFX, PyCharm.
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 Wildfire Drone Swarm</h3>
+      A multi-drone agent trained with PPO to suppress wildfires on its own. Covers drone navigation, resource limits, reward design and simulation-based training.<br/><br/>
+      <code>Python</code> <code>PPO</code> <code>Gymnasium</code> <code>PyGame</code><br/><br/>
+      <a href="https://github.com/Mohd-Hanan/REPLACE_WITH_REPO_NAME">Code</a>
+      <!-- <br/><img src="assets/wildfire.png" width="100%"/> -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Customer Segmentation</h3>
+      Streamlit app that groups customers with K-Means (k = 2 to 6), draws PCA plots and predicts a new customer's segment in real time.<br/><br/>
+      <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
+      <a href="https://github.com/Mohd-Hanan/IML-PROJECT">Code</a> · <a href="https://YOUR-APP.streamlit.app">Live demo</a>
+      <!-- <br/><img src="assets/segmentation.png" width="100%"/> -->
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ PowerGuard</h3>
+      JavaFX desktop app that predicts electricity bills, benchmarks 5 ML models on 10,000 records, tracks budgets and exports PDFs.<br/><br/>
+      <code>Java</code> <code>JavaFX</code> <code>ML</code><br/><br/>
+      <a href="https://github.com/Mohd-Hanan/AP-PROJECT">Code</a>
+      <!-- <br/><img src="assets/powerguard.png" width="100%"/> -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗓️ FIH</h3>
+      A personal planner with to-do lists and goals, built with a friend for our own use.<br/><br/>
+      <code>TypeScript</code><br/><br/>
+      <a href="https://github.com/Mohd-Hanan/MY-PLANNER">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 Portfolio</h3>
+      My personal site, and a project I keep updating.<br/><br/>
+      <code>TypeScript</code> <code>Vercel</code><br/><br/>
+      <a href="https://github.com/Mohd-Hanan/PORTFOLIO">Code</a> · <a href="https://hanan-portfolio-ten.vercel.app">Live site</a>
+    </td>
+  </tr>
+</table>
+
+## 🗺️ My path so far
+
+```mermaid
+flowchart LR
+    A["C and Java<br/>foundations"] --> B["Python and<br/>ML basics"]
+    B --> C["Clustering and<br/>desktop ML apps"]
+    C --> D["Reinforcement<br/>learning"]
+    D --> E["SRP<br/>next semester"]
+    style E stroke-dasharray: 5 5
 ```
+
+## 🏅 Certifications
+
+- 3 NPTEL course certifications
+- Workshop participation certificates
+- 1 hackathon participation (more to come 😅)
+
+## 📬 Let's connect
+
+<p align="center">
+  <a href="mailto:mohdhanan195@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="tel:+919778559152"><img src="https://img.shields.io/badge/Call-34A853?style=for-the-badge&logo=googlephone&logoColor=white" alt="Phone"/></a>
+  <a href="https://hanan-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
