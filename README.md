@@ -113,7 +113,6 @@ flowchart LR
 
 <p align="center">
   <a href="mailto:mohdhanan195@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="tel:+919778559152"><img src="https://img.shields.io/badge/Call-34A853?style=for-the-badge&logo=googlephone&logoColor=white" alt="Phone"/></a>
   <a href="https://hanan-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
