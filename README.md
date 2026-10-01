@@ -1,68 +1,113 @@
-<h1 align="center">Hi, I'm Hanan 👋</h1>
+<div align="center">
 
-<p align="center">
-  CSE (AI) undergrad at TKM College of Engineering<br/>
-  I build machine learning projects, simulations and desktop apps.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami;muhammed_hanan_pp;%24+cat+interests.txt;machine+learning+%7C+reinforcement+learning;%24+status;open+to+internships" alt="typing animation"/>
 
-<p align="center">
-  <a href="https://hanan-portfolio-ten.vercel.app">Portfolio</a> ·
-  <a href="mailto:mohdhanan195@gmail.com">Email</a> ·
-  <a href="tel:+919778559152">Phone</a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat-square" alt="Open to internships"/>
-  <img src="https://img.shields.io/badge/Based%20in-Kerala%2C%20India-555?style=flat-square" alt="Kerala, India"/>
-</p>
+```bash
+hanan@tkmce:~$ whoami
+Muhammed Hanan P P
+
+hanan@tkmce:~$ cat about.txt
+B.Tech CSE (Artificial Intelligence) @ TKM College of Engineering
+5th semester | CGPA 9.24
+Builds ML models, RL agents and desktop apps.
+Team lead on every college project except the Arduino one.
+
+hanan@tkmce:~$ cat status.txt
+[x] open to internships
+[x] cleaning up old projects
+[x] learning new AI tools and wiring them into my work
+[ ] SRP (socially relevant project), starting next semester
+```
 
 ---
 
-## About
+### `$ ls ~/projects`
 
-- 🎓 B.Tech Computer Science (Artificial Intelligence), 5th semester, CGPA 9.24
-- 🤖 Interested in machine learning, reinforcement learning and data science
-- 👥 Led the team on every college project except the Arduino one
-- 🔍 Looking for an **internship** where I can ship real ML work
+<details open>
+<summary><b>🔥 wildfire-drone-swarm</b>  <code>Python · PPO · Gymnasium · PyGame</code></summary>
+<br/>
 
-## What I'm up to
+A multi-drone reinforcement learning system for autonomous wildfire suppression. It covers drone navigation, resource constraints, reward design and simulation-based training.
 
-- 🧹 Cleaning up and documenting my older projects
-- 🧠 Learning new AI tools and working them into my own projects
-- 🌍 Starting my SRP (socially relevant project) next semester
+[`view source`](https://github.com/Mohd-Hanan/REPLACE_WITH_REPO_NAME)
 
-## Featured projects
+<!-- add screenshot: <img src="assets/wildfire.png" width="600"/> -->
+</details>
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| 🔥 **Wildfire Suppression Drone Swarm** | A multi-drone agent that learns to put out wildfires, with navigation, resource limits and reward design | Python · PPO · Gymnasium · PyGame | [Code](https://github.com/Mohd-Hanan/REPLACE_WITH_REPO_NAME) |
-| 🛒 **Customer Segmentation** | Streamlit app that clusters customers with K-Means (k = 2 to 6), shows PCA plots and predicts a new customer's segment | Python · Scikit-learn · Streamlit | [Code](https://github.com/Mohd-Hanan/IML-PROJECT) · [Live demo](https://YOUR-APP.streamlit.app) |
-| ⚡ **PowerGuard** | JavaFX desktop app that predicts electricity bills, compares 5 ML models, tracks budgets and exports PDFs | Java · JavaFX · ML | [Code](https://github.com/Mohd-Hanan/AP-PROJECT) |
-| 🗓️ **FIH** | Personal planner with to-do lists and goals, built with a friend for our own use | TypeScript | [Code](https://github.com/Mohd-Hanan/MY-PLANNER) |
-| 🌐 **Portfolio** | My personal site, updated as I grow | TypeScript | [Code](https://github.com/Mohd-Hanan/PORTFOLIO) · [Live](https://hanan-portfolio-ten.vercel.app) |
+<details>
+<summary><b>🛒 customer-segmentation</b>  <code>Python · Scikit-learn · Streamlit</code></summary>
+<br/>
 
-<!--
-Optional: add a screenshot under the table.
-Put images in an "assets" folder in this repo, then uncomment:
-<p align="center"><img src="assets/wildfire.png" width="600" alt="Wildfire drone simulation"/></p>
--->
+Streamlit app that segments customers by gender, age, income and spending using K-Means. Includes dynamic clustering (k = 2 to 6), PCA visualization and real-time prediction for a new customer.
 
-## Skills
+[`view source`](https://github.com/Mohd-Hanan/IML-PROJECT) · [`live demo`](https://YOUR-APP.streamlit.app)
 
-**Languages:** Python · Java · C · TypeScript
-**ML and data:** Scikit-learn · Pandas · NumPy · Matplotlib · K-Means · PCA · Reinforcement Learning (PPO)
-**Frameworks:** Streamlit · Gymnasium · PyGame · JavaFX
-**Database:** MySQL
-**Tools:** Git · GitHub · VS Code · Jupyter · IntelliJ IDEA · PyCharm · Arduino
+<!-- add screenshot: <img src="assets/segmentation.png" width="600"/> -->
+</details>
 
-## Certifications
+<details>
+<summary><b>⚡ powerguard</b>  <code>Java · JavaFX · ML</code></summary>
+<br/>
 
-- 3 NPTEL course certifications
-- Workshop participation certificates
-- 1 hackathon participation
+JavaFX desktop app with 5 screens and login. Predicts electricity bills from unit input or from appliance, quantity and usage hours, with budget tracking. Benchmarks 5 ML models on 10,000 records, auto-selects the best one and exports PDFs.
 
-## Get in touch
+[`view source`](https://github.com/Mohd-Hanan/AP-PROJECT)
 
-📧 [mohdhanan195@gmail.com](mailto:mohdhanan195@gmail.com)
-📞 [+91 97785 59152](tel:+919778559152)
-🌐 [hanan-portfolio-ten.vercel.app](https://hanan-portfolio-ten.vercel.app)
+<!-- add screenshot: <img src="assets/powerguard.png" width="600"/> -->
+</details>
+
+<details>
+<summary><b>🗓️ fih</b>  <code>TypeScript</code></summary>
+<br/>
+
+A personal planner with to-do lists and goals, built with a friend for our own use.
+
+[`view source`](https://github.com/Mohd-Hanan/MY-PLANNER)
+</details>
+
+<details>
+<summary><b>🌐 portfolio</b>  <code>TypeScript · Vercel</code></summary>
+<br/>
+
+My personal site. It keeps growing as I do.
+
+[`view source`](https://github.com/Mohd-Hanan/PORTFOLIO) · [`live`](https://hanan-portfolio-ten.vercel.app)
+</details>
+
+---
+
+### `$ cat skills.json`
+
+```json
+{
+  "languages": ["Python", "Java", "C", "TypeScript"],
+  "ml": ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "K-Means", "PCA", "PPO"],
+  "frameworks": ["Streamlit", "Gymnasium", "PyGame", "JavaFX"],
+  "database": ["MySQL"],
+  "tools": ["Git", "GitHub", "VS Code", "Jupyter", "IntelliJ IDEA", "PyCharm", "Arduino"]
+}
+```
+
+### `$ ls ~/certificates`
+
+```
+nptel_course_1.cert
+nptel_course_2.cert
+nptel_course_3.cert
+workshops/
+hackathon_participation.cert
+```
+
+### `$ ./contact.sh`
+
+<p>
+  <a href="mailto:mohdhanan195@gmail.com"><img src="https://img.shields.io/badge/email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+  <a href="tel:+919778559152"><img src="https://img.shields.io/badge/call-0D1117?style=for-the-badge&logo=googlephone&logoColor=00FF9C" alt="Phone"/></a>
+  <a href="https://hanan-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C" alt="Portfolio"/></a>
+</p>
+
+```bash
+hanan@tkmce:~$ exit
+```
