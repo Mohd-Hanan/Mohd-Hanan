@@ -7,14 +7,13 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=for-the-badge" alt="Open to internships"/>
-<img src="https://img.shields.io/badge/CGPA-9.24-8b5cf6?style=for-the-badge" alt="CGPA 9.24"/>
 <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-ec4899?style=for-the-badge" alt="B.Tech CSE AI"/>
 
 </div>
 
 ## ✨ About me
 
-I'm a 5th semester B.Tech CSE (AI) student at **TKM College of Engineering**. I like turning ML ideas into things that actually run: simulations, web apps and desktop tools. I've led the team on every college project except the Arduino one.
+I'm a 5th semester B.Tech CSE (AI) student at **TKM College of Engineering**. I like turning ML ideas into things that actually run: simulations, web apps and desktop tools. I've led the team on every college project.
 
 Right now I'm:
 
@@ -77,7 +76,7 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
     </td>
     <td width="50%" valign="top">
       <h3>🗓️ FIH</h3>
-      A personal planner with to-do lists and goals, built with a friend for our own use.<br/><br/>
+      A personal planner with to-do lists and goals, built with a friend for our personal use.<br/><br/>
       <code>TypeScript</code><br/><br/>
       <a href="https://github.com/Mohd-Hanan/MY-PLANNER">Code</a>
     </td>
