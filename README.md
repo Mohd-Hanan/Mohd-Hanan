@@ -93,14 +93,9 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
 
 ## 🗺️ My path so far
 
-```mermaid
-flowchart LR
-    A["C and Java<br/>foundations"] --> B["Python and<br/>ML basics"]
-    B --> C["Clustering and<br/>desktop ML apps"]
-    C --> D["Reinforcement<br/>learning"]
-    D --> E["SRP<br/>next semester"]
-    style E stroke-dasharray: 5 5
-```
+<p align="center">
+  <img src="assets/path.svg" width="100%" alt="My path: C and Java, Python and ML, clustering and desktop ML apps, reinforcement learning, SRP next semester"/>
+</p>
 
 ## 🏅 Certifications
 
@@ -111,8 +106,10 @@ flowchart LR
 ## 📬 Let's connect
 
 <p align="center">
-  <a href="mailto:mohdhanan195@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohdhanan195@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://hanan-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
+
+<p align="center"><sub>mohdhanan195@gmail.com</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
