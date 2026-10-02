@@ -53,10 +53,10 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
   <tr>
     <td width="50%" valign="top">
       <h3>🔥 Wildfire Drone Swarm</h3>
-      A multi-drone agent trained with PPO to suppress wildfires on its own. Covers drone navigation, resource limits, reward design and simulation-based training.<br/><br/>
-      <code>Python</code> <code>PPO</code> <code>Gymnasium</code> <code>PyGame</code><br/><br/>
+      Four firefighting drones (three water, one retardant) trained with PPO to work together against a simulated wildfire. Cellular-automata fire model, battery and refill limits, and a live PyGame view.<br/><br/>
+      <code>Python</code> <code>PyTorch</code> <code>PPO</code> <code>Gymnasium</code> <code>PyGame</code><br/><br/>
       <a href="https://github.com/Mohd-Hanan/Wildfire-Suppressing-Multi-Drone-Agent">Code</a>
-      <br/><img src="assets/wildfire.png" width="100%"/>
+      <!-- <br/><img src="assets/wildfire.png" width="100%"/> -->
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Customer Segmentation</h3>
@@ -75,9 +75,9 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
       <!-- <br/><img src="assets/powerguard.png" width="100%"/> -->
     </td>
     <td width="50%" valign="top">
-      <h3>🗓️ FIH</h3>
-      A personal planner with to-do lists and goals, built with a friend for our personal use.<br/><br/>
-      <code>TypeScript</code><br/><br/>
+      <h3>💬 FIH</h3>
+      An AI personal assistant on WhatsApp: text it in plain English and it files tasks, reminders, deadlines and debts, with a web dashboard. Forked from a friend's project (<a href="https://github.com/Goutham-kc/fih">Goutham-kc/fih</a>); I run my own copy as a personal planner and have contributed to it.<br/><br/>
+      <code>JavaScript</code> <code>Next.js</code> <code>WhatsApp</code><br/><br/>
       <a href="https://github.com/Mohd-Hanan/FIH">Code</a>
     </td>
   </tr>
@@ -106,10 +106,10 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
 ## 📬 Let's connect
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohdhanan195@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohdhanan197@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://hanan-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<p align="center"><sub>mohdhanan195@gmail.com</sub></p>
+<p align="center"><sub>mohdhanan197@gmail.com</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
