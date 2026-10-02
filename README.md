@@ -63,7 +63,7 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
       Streamlit app that groups customers with K-Means (k = 2 to 6), draws PCA plots and predicts a new customer's segment in real time.<br/><br/>
       <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
       <a href="https://github.com/Mohd-Hanan/IML-PROJECT">Code</a> · <a href="https://customer-segmentation-iml-project.streamlit.app/">Live demo</a>
-      <!-- <br/><img src="assets/segmentation.png" width="100%"/> -->
+      <br/><img src="assets/segmentation.png" width="100%"/>
     </td>
   </tr>
   <tr>
