@@ -56,14 +56,14 @@ Also: Matplotlib, K-Means, PCA, Reinforcement Learning (PPO), Gymnasium, PyGame,
       A multi-drone agent trained with PPO to suppress wildfires on its own. Covers drone navigation, resource limits, reward design and simulation-based training.<br/><br/>
       <code>Python</code> <code>PPO</code> <code>Gymnasium</code> <code>PyGame</code><br/><br/>
       <a href="https://github.com/Mohd-Hanan/Wildfire-Suppressing-Multi-Drone-Agent">Code</a>
-      <!-- <br/><img src="assets/wildfire.png" width="100%"/> -->
+      <br/><img src="assets/wildfire.png" width="100%"/>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Customer Segmentation</h3>
       Streamlit app that groups customers with K-Means (k = 2 to 6), draws PCA plots and predicts a new customer's segment in real time.<br/><br/>
       <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
       <a href="https://github.com/Mohd-Hanan/IML-PROJECT">Code</a> · <a href="https://customer-segmentation-iml-project.streamlit.app/">Live demo</a>
-      <br/><img src="assets/segmentation.png" width="100%"/>
+      <!-- <br/><img src="assets/segmentation.png" width="100%"/> -->
     </td>
   </tr>
   <tr>
