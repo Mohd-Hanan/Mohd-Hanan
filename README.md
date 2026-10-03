@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammed%20Hanan&fontSize=52&fontAlignY=36&animation=fadeIn&desc=CSE%20(AI)%20%7C%20ML%20%7C%20Reinforcement%20Learning&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Muhammed Hanan: CSE (AI) student. Animated wildfire simulation with four firefighting drones."/>
+</p>
 
 <div align="center">
 
